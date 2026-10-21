@@ -1,0 +1,20 @@
+# Dinamik bot va foydalanuvchi ma'lumotlari
+pul/
+step/
+ban/
+odam/
+raqam/
+number/
+getsim/
+azo.dat
+
+# Admin dinamik sozlamalari
+admin/*.txt
+
+# Tizim va muharrir fayllari
+*.log
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

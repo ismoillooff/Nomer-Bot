@@ -575,5 +575,3 @@ Ushbu loyiha shaxsiy va tijoriy maqsadlarda foydalanish uchun taqdim etiladi. Ti
   <b>NomerBot · Telegram Virtual Raqamlar va SMS Aktivatsiya Platformasi</b><br>
   MyWeb × Nyrosoft · Hayotbek Ismoilov (@ismoillooff)
 </p>
-#   N o m e r - B o t  
- 

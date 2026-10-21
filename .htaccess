@@ -1,0 +1,13 @@
+# Apache .htaccess - NomerBot Xavfsizlik Qoidalari
+Options -Indexes
+
+# Maxfiy va ma'lumotlar saqlanadigan fayllarni webdan bloklash
+<FilesMatch "\.(txt|step|dat|log|bak|sql)$">
+    Require all denied
+</FilesMatch>
+
+# Ichki tizim kataloglarini to'liq yopish
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(admin|pul|step|ban|odam|number|raqam|getsim|tugma|matn)/ - [F,L,NC]
+</IfModule>
