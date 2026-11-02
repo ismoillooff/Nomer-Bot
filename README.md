@@ -24,7 +24,7 @@ Bundan tashqari, platformada foydalanuvchilar oqimini kengaytirish va faollikni 
 
 > [!NOTE]
 > **Hujjat holati:** Ushbu README fayli repozitoriydagi 4000+ qatorli `NomerBot.php` kodi va `sms.php` moduli ichki arxitekturasi to‘liq tahlil qilingan holda, texnik aniqlik va xavfsizlik talablariga mos ravishda tuzildi.
-
+     
 ---
 
 ## 🧭 Mundarija
