@@ -8,7 +8,7 @@
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%20|%208.x-777bb4?style=for-the-badge&logo=php)](https://php.net/)
 
 ---
-
+        
 ## 📖 Loyiha haqida
 
 **NomerBot** — PHP dasturlash tili va Telegram Bot API asosida yaratilgan, foydalanuvchilarga turli ijtimoiy tarmoqlar, messenjerlar va xalqaro onlayn xizmatlar (*Telegram, WhatsApp, Instagram, Google, TikTok, Facebook, VKontakte, QIWI, PUBG, IMO va boshqalar*) uchun virtual telefon raqamlarini xarid qilish hamda real vaqt rejimida SMS faollashtirish (SMS verification / activation) kodlarini qabul qilish imkonini beruvchi to'liq avtomatlashtirilgan Telegram bot platformasidir.
