@@ -5,7 +5,7 @@
 [![MyWeb](https://img.shields.io/badge/MyWeb-myweb.uz-blue?style=for-the-badge&logo=globe)](https://myweb.uz/) 
 [![Nyrosoft](https://img.shields.io/badge/Nyrosoft-nyrosoft.uz-purple?style=for-the-badge&logo=sparkles)](https://nyrosoft.uz/)
 [![Developer](https://img.shields.io/badge/Dasturchi-@ismoillooff-0088cc?style=for-the-badge&logo=telegram)](https://t.me/ismoillooff)
-[![PHP Version](https://img.shields.io/badge/PHP-7.4%20|%208.x-777bb4?style=for-the-badge&logo=php)](https://php.net/)
+[![PHP Version](https://img.shields.io/badge/PHP-7.4%20|%208.x-777bb4?style=for-the-badge&logo=php)](https://php.net/) 
 
 ---
         
